@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StarsAPI</name>
+    </assembly>
+    <members>
+        <member name="T:StarsAPI.Controllers.Star.StarsController">
+            <summary>
+            星系的控制器
+            </summary>
+        </member>
+        <member name="T:StarsAPI.Controllers.WeatherForecastController">
+            <summary>
+            天气数据相关的控制器
+            </summary>
+        </member>
+        <member name="M:StarsAPI.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{StarsAPI.Controllers.WeatherForecastController})">
+            <summary>
+            构造方法
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:StarsAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            获得当前气温
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:StarsAPI.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:StarsAPI.WeatherForecast.Date">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:StarsAPI.WeatherForecast.TemperatureC">
+            <summary>
+            摄氏度
+            </summary>
+        </member>
+        <member name="P:StarsAPI.WeatherForecast.TemperatureF">
+            <summary>
+            华氏度
+            </summary>
+        </member>
+        <member name="P:StarsAPI.WeatherForecast.Summary">
+            <summary>
+            总计
+            </summary>
+        </member>
+    </members>
+</doc>

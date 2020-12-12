@@ -1,0 +1,9 @@
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\bin\Debug\netcoreapp3.1\StarsAPI.Model.deps.json
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\bin\Debug\netcoreapp3.1\StarsAPI.Model.dll
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\bin\Debug\netcoreapp3.1\StarsAPI.Model.pdb
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\bin\Debug\netcoreapp3.1\StarsAPI.Model.xml
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\obj\Debug\netcoreapp3.1\StarsAPI.Model.AssemblyInfoInputs.cache
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\obj\Debug\netcoreapp3.1\StarsAPI.Model.AssemblyInfo.cs
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\obj\Debug\netcoreapp3.1\StarsAPI.Model.csproj.CoreCompileInputs.cache
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\obj\Debug\netcoreapp3.1\StarsAPI.Model.dll
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Model\obj\Debug\netcoreapp3.1\StarsAPI.Model.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StarsAPI.Model</name>
+    </assembly>
+    <members>
+        <member name="T:StarsAPI.Model.Star">
+            <summary>
+            星系
+            </summary>
+        </member>
+        <member name="P:StarsAPI.Model.Star.SId">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:StarsAPI.Model.Star.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:StarsAPI.Model.Star.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>
