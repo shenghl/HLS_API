@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StarsAPI.Entity</name>
+    </assembly>
+    <members>
+        <member name="T:Models.AirShip">
+            <summary>
+            飞船类
+            </summary>
+        </member>
+        <member name="P:Models.AirShip.AId">
+            <summary>
+            Desc:自增主键
+            Default:
+            Nullable:False
+            </summary>           
+        </member>
+        <member name="P:Models.AirShip.Code">
+            <summary>
+            Desc:飞船编号
+            Default:
+            Nullable:False
+            </summary>           
+        </member>
+        <member name="P:Models.AirShip.Name">
+            <summary>
+            Desc:飞船名称
+            Default:
+            Nullable:False
+            </summary>           
+        </member>
+        <member name="P:Models.AirShip.ProdtTime">
+            <summary>
+            Desc:制造时间
+            Default:
+            Nullable:False
+            </summary>           
+        </member>
+    </members>
+</doc>

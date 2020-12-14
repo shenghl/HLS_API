@@ -1,0 +1,8 @@
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\bin\Debug\netcoreapp3.1\StarsAPI.Token.deps.json
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\bin\Debug\netcoreapp3.1\StarsAPI.Token.dll
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\bin\Debug\netcoreapp3.1\StarsAPI.Token.pdb
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\obj\Debug\netcoreapp3.1\StarsAPI.Token.AssemblyInfoInputs.cache
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\obj\Debug\netcoreapp3.1\StarsAPI.Token.AssemblyInfo.cs
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\obj\Debug\netcoreapp3.1\StarsAPI.Token.csproj.CoreCompileInputs.cache
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\obj\Debug\netcoreapp3.1\StarsAPI.Token.dll
+D:\01FlyToHigh\Core\SHL.Core.API\StarsAPI.Token\obj\Debug\netcoreapp3.1\StarsAPI.Token.pdb

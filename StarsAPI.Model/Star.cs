@@ -4,9 +4,6 @@ using System.Text;
 
 namespace StarsAPI.Model
 {
-    /// <summary>
-    /// 星系
-    /// </summary>
     public class Star
     {
         /// <summary>

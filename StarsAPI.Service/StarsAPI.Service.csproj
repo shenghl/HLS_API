@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StarsAPI.IService\StarsAPI.IService.csproj" />
+    <ProjectReference Include="..\StarsAPI.Util\StarsAPI.Util.csproj" />
+  </ItemGroup>
+
+</Project>

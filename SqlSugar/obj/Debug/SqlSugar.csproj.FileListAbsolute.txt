@@ -1,0 +1,15 @@
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\SqlSugar.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\SqlSugar.pdb
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\DmProvider.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\Kdbndp.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\MySql.Data.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\Newtonsoft.Json.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\Npgsql.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\System.Data.SQLite.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\bin\Debug\System.Memory.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\obj\Debug\SqlSugar.csprojAssemblyReference.cache
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\obj\Debug\SqlSugar.csproj.CoreCompileInputs.cache
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\obj\Debug\SqlSugar.csproj.CopyComplete
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\obj\Debug\SqlSugar.dll
+D:\01FlyToHigh\Core\SHL.Core.API\SqlSugar\obj\Debug\SqlSugar.pdb

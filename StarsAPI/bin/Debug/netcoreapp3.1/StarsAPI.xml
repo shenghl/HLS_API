@@ -4,10 +4,64 @@
         <name>StarsAPI</name>
     </assembly>
     <members>
-        <member name="T:StarsAPI.Controllers.Star.StarsController">
+        <member name="T:StarsAPI.Controllers.Admin.EntityController">
+            <summary>
+            实体操作模块
+            </summary>
+        </member>
+        <member name="M:StarsAPI.Controllers.Admin.EntityController.#ctor(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="hostingEnvironment"></param>
+        </member>
+        <member name="M:StarsAPI.Controllers.Admin.EntityController.CreateEntity(System.String)">
+            <summary>
+            生成实体类
+            </summary>
+            <param name="entityName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:StarsAPI.Controllers.StarsController">
             <summary>
             星系的控制器
             </summary>
+        </member>
+        <member name="M:StarsAPI.Controllers.StarsController.GetStarPageList(System.Int32,System.Int32)">
+            <summary>
+            获取星系分页列表
+            </summary>
+            <param name="pageIndex"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StarsAPI.Controllers.StarsController.GetStarById(System.Int64)">
+            <summary>
+            获取单个星系
+            </summary>
+            <param name="id">Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:StarsAPI.Controllers.StarsController.Add(StarsAPI.Model.Star)">
+            <summary>
+            添加星系
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StarsAPI.Controllers.StarsController.Update(StarsAPI.Model.Star)">
+            <summary>
+            编辑星系
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StarsAPI.Controllers.StarsController.Dels(System.Object[])">
+            <summary>
+            删除星系
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
         </member>
         <member name="T:StarsAPI.Controllers.WeatherForecastController">
             <summary>

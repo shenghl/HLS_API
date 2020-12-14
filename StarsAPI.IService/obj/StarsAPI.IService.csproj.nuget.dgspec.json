@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.IService\\StarsAPI.IService.csproj": {}
+  },
+  "projects": {
+    "D:\\01FlyToHigh\\Core\\SHL.Core.API\\SqlSugar\\SqlSugar.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\SqlSugar\\SqlSugar.csproj",
+        "projectName": "SqlSugar",
+        "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\SqlSugar\\SqlSugar.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.IService\\StarsAPI.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.IService\\StarsAPI.IService.csproj",
+        "projectName": "StarsAPI.IService",
+        "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.IService\\StarsAPI.IService.csproj",
+        "packagesPath": "C:\\Users\\盛虎林\\.nuget\\packages\\",
+        "outputPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\盛虎林\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DEV 18.2\\DestinationPath\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\StarsAPI.Model.csproj": {
+                "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\StarsAPI.Model.csproj"
+              },
+              "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\StarsAPI.Util.csproj": {
+                "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\StarsAPI.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\StarsAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\StarsAPI.Model.csproj",
+        "projectName": "StarsAPI.Model",
+        "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\StarsAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\盛虎林\\.nuget\\packages\\",
+        "outputPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\盛虎林\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DEV 18.2\\DestinationPath\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\StarsAPI.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\StarsAPI.Util.csproj",
+        "projectName": "StarsAPI.Util",
+        "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\StarsAPI.Util.csproj",
+        "packagesPath": "C:\\Users\\盛虎林\\.nuget\\packages\\",
+        "outputPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\StarsAPI.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\盛虎林\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DEV 18.2\\DestinationPath\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\01FlyToHigh\\Core\\SHL.Core.API\\SqlSugar\\SqlSugar.csproj": {
+                "projectPath": "D:\\01FlyToHigh\\Core\\SHL.Core.API\\SqlSugar\\SqlSugar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

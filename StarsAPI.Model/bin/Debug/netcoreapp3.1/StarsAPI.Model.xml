@@ -4,11 +4,6 @@
         <name>StarsAPI.Model</name>
     </assembly>
     <members>
-        <member name="T:StarsAPI.Model.Star">
-            <summary>
-            星系
-            </summary>
-        </member>
         <member name="P:StarsAPI.Model.Star.SId">
             <summary>
             Id
